@@ -1,0 +1,31 @@
+/* .img-rounded{
+    border-radius: 50%;
+} */
+
+.background{
+    background-image: url('imgs/pic.JPG');
+    background-size: cover;
+}
+#intro{
+    height: -webkit-fill-available;
+}
+
+#category{
+    background-color: #666666;
+}
+
+.nav-link{
+    background-color: #ffebcd !important;
+}
+
+#rpslogo{
+    margin-bottom: 104px;
+}
+
+.main-body{
+    padding-left: 0px !important;
+}
+
+.fab{
+    margin-left: auto !important;
+}
